@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cadastro de itens</string>
+    <string-array name="nomes">
+        <item>João</item>
+        <item>Hélio</item>
+        <item>Fabiana</item>
+        <item>Silva</item>
+        <item>Amanda</item>
+    </string-array>
+</resources>
